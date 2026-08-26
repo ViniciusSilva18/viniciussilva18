@@ -10,122 +10,90 @@
     </a>
   </p>
 
-  <!-- QUICK INFO BADGES -->
+  <!-- DASHBOARD E METRICAS DE ACESSOS -->
   <p align="center">
     <a href="https://www.linkedin.com/in/vinicius-rodrigues-516569146" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <img src="https://img.shields.io/badge/Localização-Portugal%20%F0%9F%87%B5%F0%9F%87%B9-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Foco-Full%20Stack%20%26%20IA-8a2be2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
-    <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+    <br><br>
+    <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18&label=VISITAS%20GLOBAIS&color=06b6d4&style=for-the-badge" alt="Profile Views" />
   </p>
-
 </div>
 
 <br />
 
-<!-- SECTION 1: CLAUDE-PARTNER PROJECTS -->
-<img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/section_projects.svg" width="100%" alt="Claude-Partner Projects" />
-
+<!-- SECTION 1: PROJETOS VIBECODER -->
 <div align="center">
-  <table border="0" cellspacing="10" cellpadding="0" style="border: none; background: transparent; margin: 0 auto;">
-    <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/portifolio-estudo">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_featured.svg" width="100%" alt="portifolio-estudo" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/Programa1">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_programa1.svg" width="100%" alt="programa1" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/viniciussilva18">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_viniciussilva18.svg" width="100%" alt="viniciussilva18" />
-        </a>
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/chefinho-api">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_claude_v1.svg" width="100%" alt="Claude-Assistant-V1" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/projectmedia">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_ai_pair.svg" width="100%" alt="AI-Pair-Programmer" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/aula2">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_aula2.svg" width="100%" alt="aula2" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/projectmedia">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_projectmedia.svg" width="100%" alt="projectmedia" />
-        </a>
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td colspan="2" align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/netflix">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_netflix.svg" width="100%" alt="netflix" />
-        </a>
-      </td>
-      <td colspan="2" align="center" style="border: none; padding: 4px;">
-        <a href="https://github.com/ViniciusSilva18/ConserTech">
-          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_consertech.svg" width="100%" alt="ConserTech" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <h2>🚀 O Meu Portfólio de 25 Projetos Premium</h2>
+  <p>Todos os projetos contam com código limpo, design moderno (VibeCoder), validação de segurança (Dependabot & CodeQL) e monitorização de acessos.</p>
 </div>
+
+### 🎨 Frontend Premium
+1. [vibe-dashboard](https://github.com/ViniciusSilva18/vibe-dashboard) — Dashboard analítico Glassmorphism.
+2. [landing-saas-pro](https://github.com/ViniciusSilva18/landing-saas-pro) — Landing page moderna SaaS com Bento Grid.
+3. [weather-ui](https://github.com/ViniciusSilva18/weather-ui) — App de meteorologia minimalista.
+4. [kanban-board](https://github.com/ViniciusSilva18/kanban-board) — Gestor de tarefas drag-and-drop.
+5. [portfolio-vibe](https://github.com/ViniciusSilva18/portfolio-vibe) — Portfólio minimalista.
+
+### ⚙️ Backend APIs
+6. [api-auth-jwt](https://github.com/ViniciusSilva18/api-auth-jwt) — Autenticação segura JWT e Refresh Tokens.
+7. [api-encurtador-url](https://github.com/ViniciusSilva18/api-encurtador-url) — Encurtador URLs com QR Code.
+8. [api-tarefas](https://github.com/ViniciusSilva18/api-tarefas) — CRUD robusto com paginação e validação.
+9. [api-upload-imagens](https://github.com/ViniciusSilva18/api-upload-imagens) — Conversão inteligente de imagens para WebP com Sharp.
+10. [api-notificacoes-ws](https://github.com/ViniciusSilva18/api-notificacoes-ws) — Notificações real-time com WebSockets.
+
+### 🐍 Python & Automação
+11. [bot-telegram-cripto](https://github.com/ViniciusSilva18/bot-telegram-cripto) — Bot Crypto com cotações e top market cap.
+12. [scraper-vagas-tech](https://github.com/ViniciusSilva18/scraper-vagas-tech) — Scraping de vagas PT com export CSV.
+13. [organizador-arquivos](https://github.com/ViniciusSilva18/organizador-arquivos) — Script para limpeza inteligente de downloads.
+14. [monitor-sites](https://github.com/ViniciusSilva18/monitor-sites) — Uptime monitor com geração de relatórios HTML.
+15. [gerador-relatorios](https://github.com/ViniciusSilva18/gerador-relatorios) — Geração de PDFs a partir de CSVs.
+
+### 🧠 Inteligência Artificial & Agentes
+16. [agente-vibecoder](https://github.com/ViniciusSilva18/agente-vibecoder) — Chatbot de conversação com streaming (Gemini).
+17. [chat-pdf-rag](https://github.com/ViniciusSilva18/chat-pdf-rag) — Sistema de Retrieval-Augmented Generation para PDFs.
+18. [analisador-sentimentos](https://github.com/ViniciusSilva18/analisador-sentimentos) — Análise de emoções de avaliações online.
+19. [resumidor-youtube](https://github.com/ViniciusSilva18/resumidor-youtube) — Sumarização em JSON de transcrições de vídeos.
+20. [gerador-testes-ia](https://github.com/ViniciusSilva18/gerador-testes-ia) — Gerador dinâmico de testes unitários a partir de código-fonte.
+
+### 🔒 Segurança
+21. [cofre-senhas](https://github.com/ViniciusSilva18/cofre-senhas) — Password manager criptografado com AES-256 e PBKDF2.
+22. [auditor-seguranca](https://github.com/ViniciusSilva18/auditor-seguranca) — Scanner local para vulnerabilidades OWASP Top 10.
+23. [api-rate-limiter](https://github.com/ViniciusSilva18/api-rate-limiter) — Middleware para proteção de APIs contra abusos e DoS.
+24. [scanner-portas](https://github.com/ViniciusSilva18/scanner-portas) — Fast port scanner multi-threaded.
+25. [validador-inputs](https://github.com/ViniciusSilva18/validador-inputs) — Prevenção XSS e SQL Injection.
 
 <br />
 
-<!-- SECTION 2: VINICIUS'S CREATIONS & ACTIVITY -->
-<img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/section_creations.svg" width="100%" alt="Vinicius's Creations" />
-
+<!-- SECTION 2: ESTATÍSTICAS E ACTIVIDADE -->
 <div align="center">
-
-  <!-- Activity Heatmap & Quadrant SVG -->
   <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/activity_overview.svg" width="100%" alt="Activity Overview" />
-
   <br /><br />
-
-  <!-- Live Dynamic GitHub Streak Stats -->
   <a href="https://github.com/ViniciusSilva18">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusSilva18&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub Streak Stats" />
   </a>
-
 </div>
 
 <br />
 
-<!-- SECTION 3: TECH STACK & TOOLS -->
+<!-- SECTION 3: TECH STACK -->
 <div align="center">
   <h3>⚡ Tecnologias &amp; Ferramentas</h3>
-
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+    <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   </p>
 </div>
 
 <br />
-
 ---
-
 <div align="center">
   <p>
     Feito com dedicação e foco em inovação contínua 🚀 • 

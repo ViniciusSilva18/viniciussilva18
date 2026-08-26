@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 435 140" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161b22" />
+      <stop offset="100%" stop-color="#0d1117" />
+    </linearGradient>
+
+    <linearGradient id="facet1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff79c6" />
+      <stop offset="100%" stop-color="#bd93f9" />
+    </linearGradient>
+    <linearGradient id="facet2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#bd93f9" />
+      <stop offset="100%" stop-color="#6272a4" />
+    </linearGradient>
+    <linearGradient id="facet3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#50fa7b" />
+      <stop offset="100%" stop-color="#8be9fd" />
+    </linearGradient>
+    <linearGradient id="facet4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8be9fd" />
+      <stop offset="100%" stop-color="#bd93f9" />
+    </linearGradient>
+    <linearGradient id="facet5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffb86c" />
+      <stop offset="100%" stop-color="#ff79c6" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card {
+      transition: all 0.3s ease;
+    }
+    .label {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      fill: #8b949e;
+    }
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      fill: #f0f6fc;
+    }
+    .lang {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #c9d1d9;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect x="2" y="2" width="431" height="136" rx="12" fill="url(#cardBg)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Left: 3D Faceted Claude Gem / Hexagon Logo -->
+  <g transform="translate(42, 28)">
+    <!-- Gem Ambient Glow -->
+    <circle cx="42" cy="42" r="38" fill="#bd93f9" opacity="0.15" />
+
+    <!-- Faceted Polygon Structure -->
+    <polygon points="42,5 75,22 55,42" fill="url(#facet1)" opacity="0.95" />
+    <polygon points="75,22 80,62 55,42" fill="url(#facet2)" opacity="0.9" />
+    <polygon points="80,62 42,80 55,42" fill="url(#facet4)" opacity="0.85" />
+    <polygon points="42,80 10,62 30,42" fill="url(#facet3)" opacity="0.9" />
+    <polygon points="10,62 10,22 30,42" fill="url(#facet4)" opacity="0.8" />
+    <polygon points="10,22 42,5 30,42" fill="url(#facet5)" opacity="0.95" />
+    <!-- Center Cutout / Inner Core -->
+    <polygon points="30,42 42,28 55,42 42,56" fill="#161b22" stroke="#bd93f9" stroke-width="1.2" />
+  </g>
+
+  <!-- Right: Project Information -->
+  <g transform="translate(160, 32)">
+    <text x="0" y="16" class="label">Project</text>
+    <text x="0" y="44" class="title">portifolio-estudo</text>
+    
+    <!-- Language: Python -->
+    <g transform="translate(0, 64)">
+      <!-- Python Logo Icon -->
+      <g transform="scale(0.85)">
+        <path d="M9.9 0C4.5 0 4.8 2.3 4.8 2.3L4.8 4.7H10V5.5H3.1C0.8 5.5 0 7.3 0 10.4C0 13.9 1.4 14.8 3.7 14.8H5.9V12.7C5.9 10.2 8 10.2 8 10.2H12.9C14.7 10.2 15.2 8.7 15.2 7.2L15.2 2.3C15.2 0.3 12.8 0 9.9 0ZM7.3 1.5C7.9 1.5 8.4 2 8.4 2.6C8.4 3.2 7.9 3.7 7.3 3.7C6.7 3.7 6.2 3.2 6.2 2.6C6.2 2 6.7 1.5 7.3 1.5Z" fill="#3776AB"/>
+        <path d="M10.1 20C15.5 20 15.2 17.7 15.2 17.7L15.2 15.3H10V14.5H16.9C19.2 14.5 20 12.7 20 9.6C20 6.1 18.6 5.2 16.3 5.2H14.1V7.3C14.1 9.8 12 9.8 12 9.8H7.1C5.3 9.8 4.8 11.3 4.8 12.8L4.8 17.7C4.8 19.7 7.2 20 10.1 20ZM12.7 18.5C12.1 18.5 11.6 18 11.6 17.4C11.6 16.8 12.1 16.3 12.7 16.3C13.3 16.3 13.8 16.8 13.8 17.4C13.8 18 13.3 18.5 12.7 18.5Z" fill="#FFD43B"/>
+      </g>
+      <text x="24" y="14" class="lang">Python / Web</text>
+    </g>
+  </g>
+
+  <!-- Subtle bottom right Claude hexagon watermark -->
+  <g transform="translate(395, 102) scale(0.6)" opacity="0.35">
+    <polygon points="20,2 38,12 38,32 20,42 2,32 2,12" fill="none" stroke="#8b949e" stroke-width="2" />
+    <circle cx="20" cy="22" r="6" fill="#8b949e" />
+  </g>
+</svg>

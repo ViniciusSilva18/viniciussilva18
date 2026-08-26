@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 45" width="100%" height="100%">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd32a" />
+      <stop offset="50%" stop-color="#f0f6fc" />
+      <stop offset="100%" stop-color="#79c0ff" />
+    </linearGradient>
+  </defs>
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 17px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      fill: #f0f6fc;
+    }
+    .accent {
+      fill: #e3b341;
+    }
+    .custom-link {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 13px;
+      font-weight: 500;
+      fill: #58a6ff;
+    }
+  </style>
+  <g transform="translate(4, 28)">
+    <text x="0" y="0" class="title">⚡ CLAUDE-PARTNER PROJECTS</text>
+    <text x="896" y="0" text-anchor="end" class="custom-link">Customize your pins ⚙️</text>
+  </g>
+</svg>

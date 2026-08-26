@@ -1,0 +1,298 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 290" width="100%" height="100%">
+  <defs>
+    <linearGradient id="gridCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="yearGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff79c6" />
+      <stop offset="50%" stop-color="#8be9fd" />
+      <stop offset="100%" stop-color="#50fa7b" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .section-head {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      fill: #f0f6fc;
+    }
+    .muted {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 12px;
+      fill: #8b949e;
+    }
+    .quadrant-label {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      fill: #8b949e;
+    }
+    .year-active {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      fill: #ffffff;
+    }
+  </style>
+
+  <!-- Container -->
+  <rect x="2" y="2" width="896" height="286" rx="14" fill="url(#gridCardBg)" stroke="#30363d" stroke-width="1.5" />
+
+  <!-- Contributions Header -->
+  <g transform="translate(25, 30)">
+    <text x="0" y="0" class="section-head">Contribuições &amp; Atividade no GitHub</text>
+    <text x="0" y="20" class="muted">Projetos em desenvolvimento ativo • Código, Aprendizado e Inovação</text>
+  </g>
+
+  <!-- Heatmap Matrix simulation with vibrant dark-green squares -->
+  <g transform="translate(25, 75)">
+    <!-- Months Labels -->
+    <text x="5" y="-10" class="muted">Jan</text>
+    <text x="75" y="-10" class="muted">Fev</text>
+    <text x="145" y="-10" class="muted">Mar</text>
+    <text x="215" y="-10" class="muted">Abr</text>
+    <text x="285" y="-10" class="muted">Mai</text>
+    <text x="355" y="-10" class="muted">Jun</text>
+    <text x="425" y="-10" class="muted">Jul</text>
+    <text x="495" y="-10" class="muted">Ago</text>
+    <text x="565" y="-10" class="muted">Set</text>
+    <text x="635" y="-10" class="muted">Out</text>
+    <text x="705" y="-10" class="muted">Nov</text>
+    <text x="775" y="-10" class="muted">Dez</text>
+
+    <!-- Days Column Labels -->
+    <text x="-20" y="16" class="muted">Seg</text>
+    <text x="-20" y="44" class="muted">Qua</text>
+    <text x="-20" y="72" class="muted">Sex</text>
+
+    <!-- Generating modern contribution grid dots -->
+    <!-- Pattern repeating with authentic distribution -->
+    <g>
+      <!-- Base grid (empty days) -->
+      <!-- Rows 0 to 6, Cols 0 to 52 -->
+      <!-- Row 0 -->
+      <rect x="0" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="15" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="30" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="45" y="5" width="11" height="11" rx="2" fill="#0e4429" />
+      <rect x="60" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="75" y="5" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="90" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="105" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="120" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="135" y="5" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="150" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="165" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="180" y="5" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="195" y="5" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="210" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="225" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="240" y="5" width="11" height="11" rx="2" fill="#0e4429" />
+      <rect x="255" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="270" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="285" y="5" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="300" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="315" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="330" y="5" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="345" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="360" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="375" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="390" y="5" width="11" height="11" rx="2" fill="#0e4429" />
+      <rect x="405" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="420" y="5" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="435" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="450" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="465" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="480" y="5" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="495" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="510" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="525" y="5" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="540" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="555" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="570" y="5" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="585" y="5" width="11" height="11" rx="2" fill="#0e4429" />
+      <rect x="600" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="615" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="630" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="645" y="5" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="660" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="675" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="690" y="5" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="705" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="720" y="5" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="735" y="5" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="750" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="765" y="5" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="780" y="5" width="11" height="11" rx="2" fill="#39d353" />
+
+      <!-- Row 1 -->
+      <rect x="0" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="15" y="19" width="11" height="11" rx="2" fill="#0e4429" />
+      <rect x="30" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="45" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="60" y="19" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="75" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="90" y="19" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="105" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="120" y="19" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="135" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="150" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="165" y="19" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="180" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="195" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="210" y="19" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="225" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="240" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="255" y="19" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="270" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="285" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="300" y="19" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="315" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="330" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="345" y="19" width="11" height="11" rx="2" fill="#0e4429" />
+      <rect x="360" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="375" y="19" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="390" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="405" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="420" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="435" y="19" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="450" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="465" y="19" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="480" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="495" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="510" y="19" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="525" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="540" y="19" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="555" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="570" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="585" y="19" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="600" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="615" y="19" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="630" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="645" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="660" y="19" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="675" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="690" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="705" y="19" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="720" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="735" y="19" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="750" y="19" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="765" y="19" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="780" y="19" width="11" height="11" rx="2" fill="#39d353" />
+
+      <!-- Row 2 -->
+      <rect x="0" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="15" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="30" y="33" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="45" y="33" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="60" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="75" y="33" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="90" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="105" y="33" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="120" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="135" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="150" y="33" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="165" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="180" y="33" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="195" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="210" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="225" y="33" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="240" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="255" y="33" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="270" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="285" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="300" y="33" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="315" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="330" y="33" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="345" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="360" y="33" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="375" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="390" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="405" y="33" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="420" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="435" y="33" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="450" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="465" y="33" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="480" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="495" y="33" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="510" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="525" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="540" y="33" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="555" y="33" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="570" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="585" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="600" y="33" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="615" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="630" y="33" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="645" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="660" y="33" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="675" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="690" y="33" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="705" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="720" y="33" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="735" y="33" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="750" y="33" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="765" y="33" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="780" y="33" width="11" height="11" rx="2" fill="#39d353" />
+
+      <!-- Row 3 & 4 (compact) -->
+      <rect x="0" y="47" width="11" height="11" rx="2" fill="#161b22" />
+      <rect x="30" y="47" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="75" y="47" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="150" y="47" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="225" y="47" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="300" y="47" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="375" y="47" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="450" y="47" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="525" y="47" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="600" y="47" width="11" height="11" rx="2" fill="#006d32" />
+      <rect x="675" y="47" width="11" height="11" rx="2" fill="#39d353" />
+      <rect x="750" y="47" width="11" height="11" rx="2" fill="#26a641" />
+      <rect x="780" y="47" width="4" height="11" rx="1" fill="#39d353" />
+    </g>
+
+    <!-- Legend -->
+    <g transform="translate(680, 70)">
+      <text x="-35" y="9" class="muted">Menos</text>
+      <rect x="5" y="0" width="10" height="10" rx="2" fill="#161b22" />
+      <rect x="20" y="0" width="10" height="10" rx="2" fill="#0e4429" />
+      <rect x="35" y="0" width="10" height="10" rx="2" fill="#006d32" />
+      <rect x="50" y="0" width="10" height="10" rx="2" fill="#26a641" />
+      <rect x="65" y="0" width="10" height="10" rx="2" fill="#39d353" />
+      <text x="82" y="9" class="muted">Mais</text>
+    </g>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="25" y1="165" x2="875" y2="165" stroke="#21262d" stroke-width="1" />
+
+  <!-- Activity Overview Bottom Section -->
+  <g transform="translate(25, 185)">
+    <!-- Left text item -->
+    <text x="0" y="15" class="section-head">Activity Overview</text>
+    <g transform="translate(0, 35)">
+      <!-- Repo Icon -->
+      <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 0 0 1.5h2.5a2.25 2.25 0 0 0 2.25-2.25V.75A2.25 2.25 0 0 0 13.25-1.5H4.5A4 4 0 0 0 .5 2.5v10.75a.75.75 0 0 0 1.5 0V2.5Z" fill="#8b949e" transform="scale(0.8)"/>
+      <text x="18" y="10" class="muted">Contribuindo ativamente em repositórios e projetos práticos</text>
+    </g>
+
+    <!-- Quadrant Graph (Center Right) -->
+    <g transform="translate(630, -5)">
+      <!-- Cross axes -->
+      <line x1="0" y1="45" x2="160" y2="45" stroke="#30363d" stroke-width="1.5" />
+      <line x1="80" y1="0" x2="80" y2="90" stroke="#30363d" stroke-width="1.5" />
+      <!-- Active commit vector line (Green neon) -->
+      <line x1="80" y1="45" x2="25" y2="45" stroke="#39d353" stroke-width="2.5" />
+      <circle cx="25" cy="45" r="4" fill="#39d353" />
+
+      <!-- Labels -->
+      <text x="80" y="-8" text-anchor="middle" class="quadrant-label">Code review</text>
+      <text x="170" y="48" class="quadrant-label">Issues</text>
+      <text x="80" y="104" text-anchor="middle" class="quadrant-label">Pull requests</text>
+      <text x="-5" y="40" text-anchor="end" font-family="sans-serif" font-size="11" font-weight="700" fill="#39d353">100%</text>
+      <text x="-5" y="54" text-anchor="end" class="quadrant-label">Commits</text>
+    </g>
+  </g>
+</svg>

@@ -69,7 +69,15 @@
 
 <!-- SECTION 2: ESTATÍSTICAS E ACTIVIDADE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/activity_overview.svg" width="100%" alt="Activity Overview" />
+  <!-- Live GitHub Activity Heatmap -->
+  <a href="https://github.com/ViniciusSilva18">
+    <img src="https://ghchart.rshah.org/06b6d4/ViniciusSilva18" alt="GitHub Heatmap de Contribuições" width="100%" />
+  </a>
+  <br /><br />
+  <!-- Live GitHub Overview Stats -->
+  <a href="https://github.com/ViniciusSilva18">
+    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSilva18&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  </a>
   <br /><br />
   <a href="https://github.com/ViniciusSilva18">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusSilva18&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=79c0ff&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub Streak Stats" />

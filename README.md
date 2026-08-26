@@ -6,7 +6,7 @@
   <!-- DYNAMIC TYPING SUBHEADER -->
   <p align="center">
     <a href="https://github.com/ViniciusSilva18">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=38EF7D&center=true&vCenter=true&width=800&height=35&lines=%22Fracasso+%C3%A9+uma+possibilidade.+Se+as+coisas+n%C3%A3o+est%C3%A3o+fracassando%2C+voc%C3%AA+n%C3%A3o+est%C3%A1+inovando!%22;Desenvolvedor+Web+%7C+Entusiasta+de+IA+%7C+S%C3%A3o+Paulo+-+Brasil;Construindo+ideias+com+c%C3%B3digo+e+inova%C3%A7%C3%A3o!+%F0%9F%9A%80" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1200&color=38EF7D&center=true&vCenter=true&width=800&height=35&lines=%22Fracasso+%C3%A9+uma+possibilidade.+Se+as+coisas+n%C3%A3o+est%C3%A3o+fracassando%2C+voc%C3%AA+n%C3%A3o+est%C3%A1+inovando!%22;Desenvolvedor+Web+%7C+Entusiasta+de+IA+%7C+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Construindo+ideias+com+c%C3%B3digo+e+inova%C3%A7%C3%A3o!+%F0%9F%9A%80" alt="Typing SVG" />
     </a>
   </p>
 
@@ -15,8 +15,8 @@
     <a href="https://www.linkedin.com/in/vinicius-rodrigues-516569146" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Rodrigues-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <img src="https://img.shields.io/badge/Empresa-Zamp%20%2F%20Burger%20King%20%26%20Popeyes-D62300?style=for-the-badge&logo=burgerking&logoColor=white" alt="Company" />
-    <img src="https://img.shields.io/badge/Localização-São%20Paulo%2C%20Brasil-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Localização-Portugal%20%F0%9F%87%B5%F0%9F%87%B9-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Foco-Full%20Stack%20%26%20IA-8a2be2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
     <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
   </p>
 

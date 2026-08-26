@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- TOP HEADER BANNER -->
-  <img src="assets/header.svg" width="100%" alt="Vinicius R. - Header" />
+  <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/header.svg" width="100%" alt="Vinicius R. - Header" />
 
   <!-- DYNAMIC TYPING SUBHEADER -->
   <p align="center">
@@ -25,58 +25,58 @@
 <br />
 
 <!-- SECTION 1: CLAUDE-PARTNER PROJECTS -->
-<img src="assets/section_projects.svg" width="100%" alt="Claude-Partner Projects" />
+<img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/section_projects.svg" width="100%" alt="Claude-Partner Projects" />
 
 <div align="center">
   <table border="0" cellspacing="10" cellpadding="0" style="border: none; background: transparent; margin: 0 auto;">
     <tr style="border: none; background: transparent;">
       <td colspan="2" align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/portifolio-estudo">
-          <img src="assets/card_featured.svg" width="100%" alt="portifolio-estudo" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_featured.svg" width="100%" alt="portifolio-estudo" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/Programa1">
-          <img src="assets/card_programa1.svg" width="100%" alt="programa1" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_programa1.svg" width="100%" alt="programa1" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/viniciussilva18">
-          <img src="assets/card_viniciussilva18.svg" width="100%" alt="viniciussilva18" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_viniciussilva18.svg" width="100%" alt="viniciussilva18" />
         </a>
       </td>
     </tr>
     <tr style="border: none; background: transparent;">
       <td align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/chefinho-api">
-          <img src="assets/card_claude_v1.svg" width="100%" alt="Claude-Assistant-V1" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_claude_v1.svg" width="100%" alt="Claude-Assistant-V1" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/projectmedia">
-          <img src="assets/card_ai_pair.svg" width="100%" alt="AI-Pair-Programmer" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_ai_pair.svg" width="100%" alt="AI-Pair-Programmer" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/aula2">
-          <img src="assets/card_aula2.svg" width="100%" alt="aula2" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_aula2.svg" width="100%" alt="aula2" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/projectmedia">
-          <img src="assets/card_projectmedia.svg" width="100%" alt="projectmedia" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_projectmedia.svg" width="100%" alt="projectmedia" />
         </a>
       </td>
     </tr>
     <tr style="border: none; background: transparent;">
       <td colspan="2" align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/netflix">
-          <img src="assets/card_netflix.svg" width="100%" alt="netflix" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_netflix.svg" width="100%" alt="netflix" />
         </a>
       </td>
       <td colspan="2" align="center" style="border: none; padding: 4px;">
         <a href="https://github.com/ViniciusSilva18/ConserTech">
-          <img src="assets/card_consertech.svg" width="100%" alt="ConserTech" />
+          <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/card_consertech.svg" width="100%" alt="ConserTech" />
         </a>
       </td>
     </tr>
@@ -86,12 +86,12 @@
 <br />
 
 <!-- SECTION 2: VINICIUS'S CREATIONS & ACTIVITY -->
-<img src="assets/section_creations.svg" width="100%" alt="Vinicius's Creations" />
+<img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/section_creations.svg" width="100%" alt="Vinicius's Creations" />
 
 <div align="center">
 
   <!-- Activity Heatmap & Quadrant SVG -->
-  <img src="assets/activity_overview.svg" width="100%" alt="Activity Overview" />
+  <img src="https://raw.githubusercontent.com/ViniciusSilva18/viniciussilva18/main/assets/activity_overview.svg" width="100%" alt="Activity Overview" />
 
   <br /><br />
 
